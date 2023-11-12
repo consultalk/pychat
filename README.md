@@ -1,6 +1,6 @@
 **README**
 
-## Socket.IO Chat App
+## PYTHON LAB PROJECT IEM KOLKATA
 
 This is a simple Socket.IO chat app that allows users to send and receive messages in real time.
 
